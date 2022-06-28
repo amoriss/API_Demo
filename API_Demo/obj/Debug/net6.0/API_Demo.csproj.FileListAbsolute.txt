@@ -1,0 +1,17 @@
+C:\Users\amori\Desktop\Repos\06_APIsandJSON\API_JSON_Demo\API_Demo\API_Demo\bin\Debug\net6.0\API_Demo.exe
+C:\Users\amori\Desktop\Repos\06_APIsandJSON\API_JSON_Demo\API_Demo\API_Demo\bin\Debug\net6.0\API_Demo.deps.json
+C:\Users\amori\Desktop\Repos\06_APIsandJSON\API_JSON_Demo\API_Demo\API_Demo\bin\Debug\net6.0\API_Demo.runtimeconfig.json
+C:\Users\amori\Desktop\Repos\06_APIsandJSON\API_JSON_Demo\API_Demo\API_Demo\bin\Debug\net6.0\API_Demo.dll
+C:\Users\amori\Desktop\Repos\06_APIsandJSON\API_JSON_Demo\API_Demo\API_Demo\bin\Debug\net6.0\API_Demo.pdb
+C:\Users\amori\Desktop\Repos\06_APIsandJSON\API_JSON_Demo\API_Demo\API_Demo\obj\Debug\net6.0\API_Demo.csproj.AssemblyReference.cache
+C:\Users\amori\Desktop\Repos\06_APIsandJSON\API_JSON_Demo\API_Demo\API_Demo\obj\Debug\net6.0\API_Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amori\Desktop\Repos\06_APIsandJSON\API_JSON_Demo\API_Demo\API_Demo\obj\Debug\net6.0\API_Demo.AssemblyInfoInputs.cache
+C:\Users\amori\Desktop\Repos\06_APIsandJSON\API_JSON_Demo\API_Demo\API_Demo\obj\Debug\net6.0\API_Demo.AssemblyInfo.cs
+C:\Users\amori\Desktop\Repos\06_APIsandJSON\API_JSON_Demo\API_Demo\API_Demo\obj\Debug\net6.0\API_Demo.csproj.CoreCompileInputs.cache
+C:\Users\amori\Desktop\Repos\06_APIsandJSON\API_JSON_Demo\API_Demo\API_Demo\obj\Debug\net6.0\API_Demo.dll
+C:\Users\amori\Desktop\Repos\06_APIsandJSON\API_JSON_Demo\API_Demo\API_Demo\obj\Debug\net6.0\refint\API_Demo.dll
+C:\Users\amori\Desktop\Repos\06_APIsandJSON\API_JSON_Demo\API_Demo\API_Demo\obj\Debug\net6.0\API_Demo.pdb
+C:\Users\amori\Desktop\Repos\06_APIsandJSON\API_JSON_Demo\API_Demo\API_Demo\obj\Debug\net6.0\API_Demo.genruntimeconfig.cache
+C:\Users\amori\Desktop\Repos\06_APIsandJSON\API_JSON_Demo\API_Demo\API_Demo\obj\Debug\net6.0\ref\API_Demo.dll
+C:\Users\amori\Desktop\Repos\06_APIsandJSON\API_JSON_Demo\API_Demo\API_Demo\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\amori\Desktop\Repos\06_APIsandJSON\API_JSON_Demo\API_Demo\API_Demo\obj\Debug\net6.0\API_Demo.csproj.CopyComplete
